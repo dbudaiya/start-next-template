@@ -1,16 +1,16 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/154486817-f86b8f20-5463-4122-b6e9-930622e757f2.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
+  <img src='https://user-images.githubusercontent.com/11247099/154486817-f86b8f20-5463-4122-b6e9-930622e757f2.png' alt='start-next-template - Opinionated Vite Starter Template' width='600'/>
 </p>
 
 <p align='center'>
-快速地<sup><em>Vitesse</em></sup> 创建 Web 应用
+快速地<sup><em>start-next-template</em></sup> 创建 Web 应用
 <br> 
 </p>
 
 <br>
 
 <p align='center'>
-<a href="https://vitesse.netlify.app/">在线 Demo</a>
+<a href="https://start-next-template.netlify.app/">在线 Demo</a>
 </p>
 
 <br>
@@ -112,30 +112,27 @@
 
 ###### 官方
 
-- [vitesse-lite](https://github.com/antfu/vitesse-lite) - Vitesse 的轻量版本
-- [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse 的 Nuxt 3 版本
-- [vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - Vitesse 的 Nuxt2 桥接版本
-- [vitesse-webext](https://github.com/antfu/vitesse-webext) - 开箱即用的浏览器扩展 vite 模板
+- [start-next-template-lite](https://github.com/antfu/start-next-template-lite) - start-next-template 的轻量版本
+- [start-next-template-nuxt3](https://github.com/antfu/start-next-template-nuxt3) - start-next-template 的 Nuxt 3 版本
+- [start-next-template-nuxt-bridge](https://github.com/antfu/start-next-template-nuxt-bridge) - start-next-template 的 Nuxt2 桥接版本
+- [start-next-template-webext](https://github.com/antfu/start-next-template-webext) - 开箱即用的浏览器扩展 vite 模板
 
-###### 社区
-
-[查看英文版](./README.md#community)
 
 ## 现在可以试试!
 
-> Vitesse 需要 Node 版本 >=14
+> start-next-template 需要 Node 版本 >=14
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/dushenyan/vitesse/generate).
+[使用这个模板创建仓库](https://github.com/dbudaiya/start-next-template/generate).
 
 ### 克隆到本地
 
 如果您更喜欢使用更干净的 git 历史记录手动执行此操作
 
 ```bash
-npx degit dushenyan/vitesse my-vitesse-app
-cd my-vitesse-app
+npx degit dbudaiya/start-next-template my-start-next-template-app
+cd my-start-next-template-app
 pnpm i # 如果你没装过 pnpm, 可以先运行: npm install -g pnpm
 ```
 
